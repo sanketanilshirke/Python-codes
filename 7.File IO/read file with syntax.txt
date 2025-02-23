@@ -1,0 +1,6 @@
+reading file with syntax
+my name is sanket anil shirke
+this is append line
+this is append line
+this is append line
+this is append line
